@@ -1,7 +1,7 @@
 # Myntra Products Data Analysis
 
 ## Project Overview
-This project analyzes the Myntra products dataset to derive actionable insights that can help improve business strategies, enhance customer satisfaction, and optimize product offerings. The analysis is performed using Python and is contained in a Jupyter Notebook (.ipynb file).
+The primary aim of the Myntra data analysis project is to derive actionable insights from the dataset to help improve business strategies, enhance customer satisfaction, and optimize product offerings. This involves understanding various aspects such as pricing strategies, discount effectiveness, customer ratings, and product performance.
 
 ## Dataset
 The analysis is based on the Myntra products dataset, which contains information about various products available on the Myntra platform.
@@ -33,11 +33,6 @@ The analysis provides valuable insights into Myntra's pricing strategies, discou
 1. Clone this repository
 2. Ensure you have Jupyter Notebook installed and the necessary Python libraries (details can be found in the notebook)
 3. Open `myntra_analysis.ipynb` in Jupyter Notebook to view the analysis
-
-## Future Work
-- Deeper analysis of specific product categories
-- Time-based analysis to identify trends
-- Customer segmentation based on purchasing patterns
 
 ## Contributors
 Mohini Jadhav
