@@ -4,7 +4,8 @@
 This project analyzes the Myntra products dataset to derive actionable insights that can help improve business strategies, enhance customer satisfaction, and optimize product offerings. The analysis is performed using Python and is contained in a Jupyter Notebook (.ipynb file).
 
 ## Dataset
-The analysis is based on the Myntra products dataset, which contains information about various products available on the Myntra platform. While the exact details of the dataset are not provided here, it likely includes information such as product names, prices, discounts, ratings, and categories.
+The analysis is based on the Myntra products dataset, which contains information about various products available on the Myntra platform.
+This data set is available on kaggle https://www.kaggle.com/datasets/ronakbokaria/myntra-products-dataset
 
 ## Key Insights
 
@@ -25,7 +26,7 @@ A significant negative correlation was found between a product's rating and the 
 The analysis provides valuable insights into Myntra's pricing strategies, discount effectiveness, customer ratings, and product performance. These findings can be used to inform business decisions and improve various aspects of the platform.
 
 ## File Structure
-- `myntra_analysis.ipynb`: Jupyter Notebook containing all the code and analysis
+- `Myntra EDA.ipynb`: Jupyter Notebook containing all the code and analysis
 - `README.md`: This file, providing an overview of the project
 
 ## How to Use
